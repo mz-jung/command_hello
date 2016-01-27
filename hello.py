@@ -7,3 +7,8 @@ print("tell your world")
 print("tell his world")
 
 print("hi~~~~ pull")
+
+hello hi how are you??
+
+I'm fine thank you.
+
